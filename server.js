@@ -6,7 +6,7 @@ const app = express();
 app.use(cors());
 
 const PORT = process.env.PORT || 3000;
-const API_KEY = process.env.CRICKET_API_KEY;
+const API_KEY = b065dbfe-1f25-44cd-b4a5-793ff1c69d88;
 
 // 🔥 CACHE
 let liveMatches = [];
